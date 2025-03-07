@@ -1,0 +1,21 @@
+For submission, just create a repo in github and name it se3231-machine-learning and invite me as collaborator or do the google classroom stuff that Mykiell suggested. 
+
+Attached with your code, provide an answer to the following questions:
+
+1. Why did you choose this dataset?
+
+- I wanted to know whether there is any correlation between Playing Hours and Grade
+
+2. What is your conclusion upon conducting linear regression on this dataset?
+
+3. How relevant is linear regression today?
+
+You can put your answers in a doc file or a notepad or as a comment on your code. Just make sure to properly name it. 
+
+For additional info, here are the link to the datasets:
+
+https://www.kaggle.com/datasets/bhargavchirumamilla/thyroid-cancer-risk-dataset
+
+https://www.kaggle.com/datasets/deadier/play-games-and-success-in-students
+
+https://www.kaggle.com/datasets/mahatiratusher/heart-disease-risk-prediction-dataset
